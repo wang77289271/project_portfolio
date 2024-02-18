@@ -37,6 +37,13 @@ import nb from '../assets/nb.png'
 import skype from '../assets/skype.png'
 import spotify from '../assets/spotify.png'
 
+import design_bg_1 from '../assets/design-section-bg-1.jpg'
+import design_bg_2 from '../assets/design-section-bg-2.jpg'
+import design_bg_3 from '../assets/design-section-bg-3.jpg'
+import design_bg_4 from '../assets/design-section-bg-4.jpg'
+import design_bg_5 from '../assets/design-section-bg-5.jpg'
+import design_bg_6 from '../assets/design-section-bg-6.jpg'
+
 export default {
   email,
   mobile,
@@ -73,4 +80,10 @@ export default {
   nb,
   skype,
   spotify,
+  design_bg_1,
+  design_bg_2,
+  design_bg_3,
+  design_bg_4,
+  design_bg_5,
+  design_bg_6,
 }
