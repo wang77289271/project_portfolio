@@ -1,5 +1,5 @@
 import { AppWrap, MotionWrap } from '../../wrapper'
-import { motion } from 'framer-motion'
+// import { motion } from 'framer-motion'
 import { GoArrowUpRight } from 'react-icons/go'
 import './MyWork.scss'
 import { useEffect, useState } from 'react'
